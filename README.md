@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="96%" src="assets/banner_github_azul.png" alt="Banner Personalizado">
+  <img src="assets/banner_github_azul.png" alt="Banner de boas-vindas">
 </p>
 
 > Estudante de Engenharia da Computação se dedicando a melhorar sempre!
@@ -38,11 +38,11 @@
 
 ## • Estatísticas do GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YannLeao&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage&custom_title=My%20GitHub%20Status" alt="Estatísticas do GitHub">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannLeao&layout=compact&theme=transparent" alt="Linguagens mais usadas">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YannLeao&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage&custom_title=My%20GitHub%20Status&count_private=true&hide_border=true" alt="Estatísticas do GitHub">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannLeao&layout=compact&theme=transparent&count_private=true&hide_border=true" alt="Linguagens mais usadas">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YannLeao&theme=github-dark&custom_title=My%20Contribution%20Graph&radius&hide_border=true&area=true&radius=15" alt="Gráfico de Contribuições">
 </p>
 
 <p align="center">
-  <img width="96%" src="assets/banner_github_azul_despedida.png" alt="Banner Personalizado">
+  <img src="assets/banner_github_azul_despedida.png" alt="Banner de despedida">
 </p>
