@@ -36,6 +36,10 @@
   <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
 </p>
 
+<p align="center">
+  <img src="assets/banner_github_azul_central.png" alt="Banner de boas-vindas">
+</p>
+
 ## • Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YannLeao&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage&custom_title=My%20GitHub%20Status&count_private=true&hide_border=true" alt="Estatísticas do GitHub">
