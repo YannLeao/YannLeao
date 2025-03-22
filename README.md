@@ -1,21 +1,33 @@
 <p align="center">
-  <img src="assets/banner_github_azul.png" alt="Banner de boas-vindas">
+  <img src="assets/banner_inicial_black.png" alt="Banner de boas-vindas">
 </p>
 
 > Estudante de Engenharia da Computação se dedicando a melhorar sempre!
 
 ## • Tecnologias e Ferramentas
 
-### **Linguagens de Programação**
+### **Back-end**
 <p>
-  <img src="https://img.shields.io/badge/java-B07219.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
 </p>
 
-### **Desenvolvimento Mobile**
+### **Mobile**
 <p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white" alt="JetPack Compose">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+
+</p>
+
+### **Ciência de Dados**
+<p>
+  <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
 </p>
 
 ### **Banco de Dados**
@@ -36,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner_github_azul_central.png" alt="Banner de boas-vindas">
+  <img src="assets/banner_central_black.png" alt="Banner de boas-vindas">
 </p>
 
 ## • Estatísticas do GitHub
@@ -47,5 +59,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner_github_azul_despedida.png" alt="Banner de despedida">
+  <img src="assets/banner_final_black.png" alt="Banner de despedida">
 </p>
