@@ -2,7 +2,9 @@
   <img src="assets/banner_inicial_black.png" alt="Welcome Banner">
 </p>
 
-### Computer Engineering student striving to always improve!
+## • About me
+
+I'm computer Engineering student striving to always improve!
 
 ## • Technologies and Tools
 
@@ -46,7 +48,7 @@ Exploring **Data Analysis** and **Machine Learning** with Python.
 </p>
 
 <p align="center">
-  <img src="assets/banner_central.png" alt="Welcome Banner">
+  <img src="assets/banner_central.png" alt="Central Banner">
 </p>
 
 ## • GitHub Statistics
