@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_inicial_black.png" alt="Welcome Banner">
+  <img src="assets/banner_inicial.png" alt="Welcome Banner">
 </p>
 
 ## • About me
@@ -47,10 +47,6 @@ Exploring **Data Analysis** and **Machine Learning** with Python.
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
 </p>
 
-<p align="center">
-  <img src="assets/banner_central.png" alt="Central Banner">
-</p>
-
 ## • GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YannLeao&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage&custom_title=My%20GitHub%20Status&hide_border=true" alt="GitHub Stats">
@@ -59,5 +55,5 @@ Exploring **Data Analysis** and **Machine Learning** with Python.
 </p>
 
 <p align="center">
-  <img src="assets/banner_final_black.png" alt="Farewell Banner">
+  <img src="assets/banner_final.png" alt="Farewell Banner">
 </p>
