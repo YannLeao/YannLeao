@@ -50,8 +50,8 @@ Exploring **Data Analysis** and **Machine Learning** with Python.
 ## • GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YannLeao&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage&custom_title=My%20GitHub%20Status&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannLeao&layout=donut&theme=transparent&hide_border=true" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YannLeao&theme=github-dark&custom_title=My%20Contribution%20Graph&radius&hide_border=true&area=true&radius=15" alt="Contribution Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannLeao&layout=donut&theme=transparent&hide_border=true&hide=html,css,shell" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YannLeao&theme=github-dark&custom_title=My%20Contribution%20Graph&hide_border=true&area=true&radius=15" alt="Contribution Graph">
 </p>
 
 <p align="center">
