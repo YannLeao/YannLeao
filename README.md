@@ -23,6 +23,7 @@ I'm computer Engineering student striving to always improve!
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
 </p>
 
+<!--
 ### **Data Science**
 <p>
   <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -30,6 +31,7 @@ I'm computer Engineering student striving to always improve!
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
 </p>
+-->
 
 ### **Databases**
 <p>
@@ -40,11 +42,16 @@ I'm computer Engineering student striving to always improve!
 
 ## • Currently Studying
 
-Exploring **Data Analysis** and **Machine Learning** with Python.
+Exploring **Data Science** with Python.
 
 <p>
-  <img src="https://img.shields.io/badge/Seaborn-1F72B6?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-1F72B6?style=for-the-badge&logoColor=white" alt="Seaborn">
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white" alt="Folium">
 </p>
 
 ## • GitHub Statistics
