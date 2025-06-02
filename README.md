@@ -17,10 +17,10 @@ Currently focused on data analysis and transitioning into machine learning & dee
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-1F72B6?style=for-the-badge&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Seaborn-1F72B6?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white" alt="Folium">
-  <img src="https://img.shields.io/badge/GeoPandas-32667E?style=for-the-badge&logoColor=white" alt="GeoPandas">
+  <img src="https://img.shields.io/badge/GeoPandas-32667E?style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas">
 </p>
 
 ### **Back-end**
@@ -61,7 +61,7 @@ Expanding my data skills into **Machine Learning and AI**, building predictive m
 ## • GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YannLeao&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage&custom_title=My%20GitHub%20Status&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannLeao&layout=donut&theme=transparent&hide_border=true&hide=html,css,shell" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannLeao&layout=donut&theme=transparent&hide_border=true" alt="Top Languages">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YannLeao&theme=github-dark&custom_title=My%20Contribution%20Graph&hide_border=true&area=true&radius=15" alt="Contribution Graph">
 </p>
 
